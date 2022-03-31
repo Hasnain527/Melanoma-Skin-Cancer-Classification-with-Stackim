@@ -1,1 +1,1 @@
-# Melanoma-Skin-Cancer-Classification-with-Stackim
+# Melanoma-Skin-Cancer-Classification-with-Stacking
